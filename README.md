@@ -19,5 +19,7 @@ A CLI program that will allow us to compress and encrypt a file using a password
 
 ### Examples
 
-```node ./src/cli.js encrypt ./file.txt myPassword```
-```node ./src/cli.js decrypt ./file.txt myPassword```
+```
+node ./src/cli.js encrypt ./file.txt myPassword
+node ./src/cli.js decrypt ./file.txt myPassword
+```
